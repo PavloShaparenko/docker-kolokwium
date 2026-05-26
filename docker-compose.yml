@@ -1,0 +1,8 @@
+service:
+  web_app:
+  build:
+  ports:
+   -5000:5000
+  restart:always
+  
+
